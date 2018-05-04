@@ -1,5 +1,5 @@
 ## First of all
-This is a custom edistion falcon-dashboard of my.
+This is a custom edistion falcon-dashboard of mine.
 ## Introduction
 
 dashboard is the Open-Falcon unified default forntend component, including:
